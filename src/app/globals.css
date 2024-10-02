@@ -1,0 +1,26 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+  background-color:lemonchiffon;
+}
+
+.container{
+  background: deeppink;
+}
+.header{
+  text-align:center;
+  justify-content: space-between;
+  background: deepskyblue;
+}
+h3{
+  color:black;
+  background-color:bisque;
+  border-radius: 4%;
+  margin-bottom:10px;
+}
+img{
+  border-color: black;
+  border-radius: 53em;
+}
